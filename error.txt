@@ -1,0 +1,10 @@
+Fatal error: Uncaught Error: Call to undefined function mir_posted_on() in 
+W:\domains\childhood\wp-content\themes\childhood\template-parts\content.php:25 Stack trace: 
+#0 W:\domains\childhood\wp-includes\template.php(792): require() 
+#1 W:\domains\childhood\wp-includes\template.php(725):load_template() 
+#2 W:\domains\childhood\wp-includes\general-template.php(206): locate_template() 
+#3 W:\domains\childhood\wp-content\themes\childhood\single.php(19): get_template_part() 
+#4 W:\domains\childhood\wp-includes\template-loader.php(106): include('W:\\domains\\chil...') 
+#5 W:\domains\childhood\wp-blog-header.php(19): require_once('W:\\domains\\chil...')
+#6 W:\domains\childhood\index.php(17): require('W:\\domains\\chil...') 
+#7 {main} thrown in W:\domains\childhood\wp-content\themes\childhood\template-parts\content.php on line 25

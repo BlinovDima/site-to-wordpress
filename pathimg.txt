@@ -1,0 +1,9 @@
+//в html
+ctrl+f
+./img
+<?php echo bloginfo('template_url');?>/assets/img
+
+//в сss
+ctrl+f
+../img
+assets/img
